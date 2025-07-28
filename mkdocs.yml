@@ -1,0 +1,10 @@
+site_name: My own little site
+site_url: https://Teccun.github.io/mkdock-demo/
+theme:
+  name: material
+site_author: Fil Pereverzev
+copyright: Fil Pereverzev, MOLS, 2025
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
